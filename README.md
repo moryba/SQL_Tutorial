@@ -6,4 +6,4 @@ If you want to be update about my tutorial on SQL follow me [here.](https://towa
 
 # Entity Relationship Diagram
 
-
+![alt text](ERD_project.png "ERD Tutorial")
