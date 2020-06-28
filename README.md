@@ -8,10 +8,10 @@ If you want to be update about my tutorial on SQL follow me [here.](https://towa
 
 - Part I: [Some Important Key Concepts to start using PostgreSQL](https://towardsdatascience.com/some-important-key-concepts-to-start-using-postgresql-c6de63ab683f?source=friends_link&sk=1eea89c8bf31a5696c975364013e21af)
 
-- Part II: [.......]
+- Part II: [in progress]
 
-- Part III: [......]
+- Part III: [in progress]
 
-# Entity Relationship Diagram
+## Entity Relationship Diagram
 
 ![alt text](ERD_project.png "ERD Tutorial")
