@@ -2,7 +2,7 @@
 
 ## Introduction
 In this repository there are all materials about my tutorial on SQL.
-If you want to be update about my tutorial on SQL follow me [here.](https://towardsdatascience.com/tagged/Sql%20Tutorial)
+If you want to be update about my tutorial on SQL follow me [here.](https://towardsdatascience.com/@moryba.kouate)
 
 ## Topics of the Tutorial
 
