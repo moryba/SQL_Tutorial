@@ -8,7 +8,7 @@ If you want to be update about my tutorial on SQL follow me [here.](https://towa
 
 - Part I: [Some Important Key Concepts to start using PostgreSQL](https://towardsdatascience.com/some-important-key-concepts-to-start-using-postgresql-c6de63ab683f?source=friends_link&sk=1eea89c8bf31a5696c975364013e21af)
 
-- Part II: [in progress]
+- Part II: [Working with Multiple Tables thanks to SQL and ERD](https://towardsdatascience.com/working-with-multiple-tables-thanks-to-sql-and-erd-9cb5dcb99228?source=friends_link&sk=7734128676dd5fe6e8f91256f0505d6f)
 
 - Part III: [in progress]
 
